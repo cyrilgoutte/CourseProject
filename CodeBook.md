@@ -37,15 +37,25 @@ Columns 3 to 68: mean of the 66 target features, for the (subject,activity)
       time or frequency (using a FFT) domain.
 
   2. The core variable name:
+  
       BodyAcc : Boby acceleration from the accelerometer
+  
       GravityAcc : Gravity acclerelation from the accelerometer
+  
       BodyAccJerk : Body "jerk" signal, ie derivative of linear acceleration
+  
       BodyGyro : Body angular velocity capture from a gyroscope
+  
       BodyGyroJerk : Body "jerk" signal, ie derivative of angular acceleration
+  
       BodyAccMag : Magnitude of the body acceleration (Euclidean norm) 
+  
       GravityAccMag : Magnitude of the gravity acceleration (Euclidean norm)
+  
       BodyAccJerkMag : Magnitude of the body acceleration "jerk" signal 
+  
       BodyGyroMag : Magnitude of the body angular velocity
+  
       BodyGyroJerkMag : Magnitude of the body angular velocity "jerk" signal
 
   3. "Mean" or "Stdev" indicating whether the variable is the mean or the
